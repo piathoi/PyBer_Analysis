@@ -29,9 +29,11 @@ A multiple-line chart of totak fares for each city type:
 ## Summary
 
 % of Total Drivers by City Type
+
 ![Fig7](https://user-images.githubusercontent.com/102835776/167218631-3dc1328c-a1ee-4593-8e03-a635aadee5ea.png)
 
 % of Total Fares by City Type
+
 ![Fig5](https://user-images.githubusercontent.com/102835776/167218465-8d9a5395-c3d4-43ff-9c56-7bcfc4d75307.png)
 
 Urban cities have the highest fares. We can expand more giving the business is thriving there in those areas.
