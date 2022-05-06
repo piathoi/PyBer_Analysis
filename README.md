@@ -28,3 +28,5 @@ A multiple-line chart of totak fares for each city type:
 
 ## Summary
 
+![Fig5](https://user-images.githubusercontent.com/102835776/167218465-8d9a5395-c3d4-43ff-9c56-7bcfc4d75307.png)
+![Fig7](https://user-images.githubusercontent.com/102835776/167218511-c2e85711-53c3-4c81-bdfe-891290cb9108.png)
