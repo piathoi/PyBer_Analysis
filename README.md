@@ -10,7 +10,8 @@ The final PyBer analysis include mutiple-line graphs of total weekly fares for e
 ## Results
 
 The PyBer summary DataFrames:
-[Uploading Screen Shot 2022-05-06 at 2.16.52 PM.png…]()
+<img width="593" alt="Screen Shot 2022-05-06 at 2 16 52 PM" src="https://user-images.githubusercontent.com/102835776/167218337-e2e01c00-9040-4127-a6c5-03457d9aed21.png">
+
 
 PyBer Ride-Sharing Data(2019):
 <img width="624" alt="Screen Shot 2022-05-06 at 2 22 07 PM" src="https://user-images.githubusercontent.com/102835776/167218195-30de641b-1096-4844-823d-b801c76b4cd8.png">
