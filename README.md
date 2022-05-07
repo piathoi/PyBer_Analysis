@@ -2,10 +2,7 @@
 
 ## Overview 
 
-Purpose:  
-* to complete summary of the Ride-Sharing data by city type using different type graphs such as line, scatter, bubble, pie and box-and-whisker with Matplotlib libraries. 
-* to determine mean, median and mode using Pandas, NumPy and SciPy statistics.
-The final PyBer analysis include mutiple-line graphs of total weekly fares for each city type.
+The goal of this week's analysis is find out the total weekly fares for each city type by creating a multiple-line graph.
 
 ## Results
 
@@ -13,7 +10,8 @@ The PyBer summary DataFrames:
 
 A multiple-line chart of totak fares for each city type:
 
-![Fig8](https://user-images.githubusercontent.com/102835776/167217764-0dbb319f-fbba-4c46-a93c-6dd1d92f7b10.png)
+![PyBer_fare_summary](https://user-images.githubusercontent.com/102835776/167266608-8afabd93-7f11-43d9-a18f-79d1e7c91aa3.png)
+
 
 * The Urban fares started with an average of $1800 with a consistent increase around 2,300.
 * The Suburban fares started around $1000, and it was not profitable. Fare dropped in March and in mid-April.
